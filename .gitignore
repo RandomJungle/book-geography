@@ -1,2 +1,6 @@
 Pipfile
 Pipfile.lock
+
+resources/*
+
+.idea
